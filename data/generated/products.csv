@@ -1,0 +1,4 @@
+product_id,product_name,target_asset_type,min_credit_score,max_loss_count,max_sum_insured,base_rate
+PRD-PROP-01,Commercial Property Shield,COMMERCIAL_PROPERTY,600,2,50000000.00,0.0200
+PRD-AUTO-01,Fleet & Auto Complete,PRIVATE_VEHICLE,580,3,15000000.00,0.0350
+PRD-CYBR-01,Cyber Threat Defense,CYBER_INFRASTRUCTURE,650,1,30000000.00,0.0250

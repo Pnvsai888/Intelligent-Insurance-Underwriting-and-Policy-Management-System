@@ -1,0 +1,59 @@
+record_id,entity,issue_type,description
+POL-2026-000001,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 74537.98 tampered to 37268.99
+POL-2026-000002,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 443766.55 tampered to 221883.28
+POL-2026-000003,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 585187.88 tampered to 292593.94
+POL-2026-000004,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 435717.27 tampered to 217858.64
+POL-2026-000005,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 755716.46 tampered to 377858.23
+POL-2026-000006,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 370267.47 tampered to 185133.74
+POL-2026-000007,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 316017.40 tampered to 158008.70
+POL-2026-000008,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 494323.08 tampered to 247161.54
+POL-2026-000009,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 94243.00 tampered to 47121.50
+POL-2026-000010,Policy,PREMIUM_FORMULA_MISMATCH,Calculated premium 236475.51 tampered to 118237.76
+POL-2026-001467,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status REFERRED
+POL-2026-001468,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+POL-2026-001469,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+POL-2026-001470,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+POL-2026-001471,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+POL-2026-001472,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status REFERRED
+POL-2026-001473,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+POL-2026-001474,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status REFERRED
+POL-2026-001475,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+POL-2026-001476,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+POL-2026-001477,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status REFERRED
+POL-2026-001478,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status REFERRED
+POL-2026-001479,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+POL-2026-001480,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status REFERRED
+POL-2026-001481,Policy,ISSUED_WITHOUT_APPROVAL,Policy bound against quote status DECLINED
+END-POL-2026-000001-001,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 15000000.00
+END-POL-2026-000002-002,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 15000000.00
+END-POL-2026-000003-003,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 15000000.00
+END-POL-2026-000004-004,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 50000000.00
+END-POL-2026-000005-005,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 50000000.00
+END-POL-2026-000006-006,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 30000000.00
+END-POL-2026-000007-007,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 50000000.00
+END-POL-2026-000008-008,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 30000000.00
+END-POL-2026-000009-009,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 15000000.00
+END-POL-2026-000010-010,Endorsement,ENDORSEMENT_EXCEEDS_CAPACITY,Endorsement delta 60000000.00 exceeds limit 15000000.00
+POL-2026-001482,Policy,OVERLAPPING_POLICY_PERIOD,Policy POL-2026-001482 effective date 2027-01-17 overlaps prior policy POL-2026-000001 expiration 2027-02-16
+POL-2026-001483,Policy,OVERLAPPING_POLICY_PERIOD,Policy POL-2026-001483 effective date 2027-06-14 overlaps prior policy POL-2026-000005 expiration 2027-07-14
+POL-2026-001484,Policy,OVERLAPPING_POLICY_PERIOD,Policy POL-2026-001484 effective date 2027-01-23 overlaps prior policy POL-2026-000006 expiration 2027-02-22
+POL-2026-001485,Policy,OVERLAPPING_POLICY_PERIOD,Policy POL-2026-001485 effective date 2027-02-10 overlaps prior policy POL-2026-000008 expiration 2027-03-12
+POL-2026-001486,Policy,OVERLAPPING_POLICY_PERIOD,Policy POL-2026-001486 effective date 2026-12-16 overlaps prior policy POL-2026-000009 expiration 2027-01-15
+POL-2026-001487,Policy,OVERLAPPING_POLICY_PERIOD,Policy POL-2026-001487 effective date 2027-06-02 overlaps prior policy POL-2026-000010 expiration 2027-07-02
+POL-2026-001488,Policy,OVERLAPPING_POLICY_PERIOD,Policy POL-2026-001488 effective date 2027-05-06 overlaps prior policy POL-2026-000113 expiration 2027-06-05
+POL-2026-001489,Policy,OVERLAPPING_POLICY_PERIOD,Policy POL-2026-001489 effective date 2027-04-12 overlaps prior policy POL-2026-000114 expiration 2027-05-12
+REN-POL-2026-000011-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000012-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000013-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000014-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000015-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000016-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000017-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000018-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000019-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000020-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000021-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000022-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000023-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000024-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED
+REN-POL-2026-000025-2027,Renewal,RENEWAL_GENERATED_ON_CANCELLED_POLICY,Renewal offer constructed on terminated policy status CANCELLED

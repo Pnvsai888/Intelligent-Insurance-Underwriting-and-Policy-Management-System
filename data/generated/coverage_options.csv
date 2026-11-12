@@ -1,0 +1,10 @@
+coverage_id,product_id,coverage_name,deductible,coverage_limit
+COV-PROP-BASE,PRD-PROP-01,Building Fire & Perils,50000.0,50000000.0
+COV-PROP-BI,PRD-PROP-01,Business Interruption,25000.0,10000000.0
+COV-PROP-EQ,PRD-PROP-01,Earthquake & Natural Perils,75000.0,30000000.0
+COV-AUTO-COLL,PRD-AUTO-01,Collision & Accidental,10000.0,15000000.0
+COV-AUTO-TP,PRD-AUTO-01,Third-Party Liability,5000.0,10000000.0
+COV-AUTO-COMP,PRD-AUTO-01,Comprehensive Theft/Fire,15000.0,12000000.0
+COV-CYBR-RANS,PRD-CYBR-01,Extortion & Ransom,100000.0,30000000.0
+COV-CYBR-BRCH,PRD-CYBR-01,Data Breach Notification,50000.0,15000000.0
+COV-CYBR-BI,PRD-CYBR-01,Network Interruption,150000.0,20000000.0

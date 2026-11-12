@@ -1,0 +1,3 @@
+# Python Standard Runtime 3.10+
+# Optional test and runner tools:
+pytest>=7.0.0

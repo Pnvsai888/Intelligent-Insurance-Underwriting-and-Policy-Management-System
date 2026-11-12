@@ -1,0 +1,29 @@
+[
+  {
+    "product_id": "PRD-PROP-01",
+    "product_name": "Commercial Property Shield",
+    "target_asset_type": "COMMERCIAL_PROPERTY",
+    "min_credit_score": "600",
+    "max_loss_count": "2",
+    "max_sum_insured": "50000000.00",
+    "base_rate": "0.0200"
+  },
+  {
+    "product_id": "PRD-AUTO-01",
+    "product_name": "Fleet & Auto Complete",
+    "target_asset_type": "PRIVATE_VEHICLE",
+    "min_credit_score": "580",
+    "max_loss_count": "3",
+    "max_sum_insured": "15000000.00",
+    "base_rate": "0.0350"
+  },
+  {
+    "product_id": "PRD-CYBR-01",
+    "product_name": "Cyber Threat Defense",
+    "target_asset_type": "CYBER_INFRASTRUCTURE",
+    "min_credit_score": "650",
+    "max_loss_count": "1",
+    "max_sum_insured": "30000000.00",
+    "base_rate": "0.0250"
+  }
+]

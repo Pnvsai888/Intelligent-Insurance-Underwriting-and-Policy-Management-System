@@ -1,0 +1,100 @@
+[
+  {
+    "risk_factor_id": "RF-CR-01",
+    "dimension": "CREDIT_TIER",
+    "bucket_min": "300",
+    "bucket_max": "579",
+    "multiplier": "1.5"
+  },
+  {
+    "risk_factor_id": "RF-CR-02",
+    "dimension": "CREDIT_TIER",
+    "bucket_min": "580",
+    "bucket_max": "669",
+    "multiplier": "1.2"
+  },
+  {
+    "risk_factor_id": "RF-CR-03",
+    "dimension": "CREDIT_TIER",
+    "bucket_min": "670",
+    "bucket_max": "749",
+    "multiplier": "1.0"
+  },
+  {
+    "risk_factor_id": "RF-CR-04",
+    "dimension": "CREDIT_TIER",
+    "bucket_min": "750",
+    "bucket_max": "850",
+    "multiplier": "0.85"
+  },
+  {
+    "risk_factor_id": "RF-LH-01",
+    "dimension": "LOSS_HISTORY",
+    "bucket_min": "0",
+    "bucket_max": "0",
+    "multiplier": "0.9"
+  },
+  {
+    "risk_factor_id": "RF-LH-02",
+    "dimension": "LOSS_HISTORY",
+    "bucket_min": "1",
+    "bucket_max": "1",
+    "multiplier": "1.15"
+  },
+  {
+    "risk_factor_id": "RF-LH-03",
+    "dimension": "LOSS_HISTORY",
+    "bucket_min": "2",
+    "bucket_max": "2",
+    "multiplier": "1.4"
+  },
+  {
+    "risk_factor_id": "RF-LH-04",
+    "dimension": "LOSS_HISTORY",
+    "bucket_min": "3",
+    "bucket_max": "3",
+    "multiplier": "1.75"
+  },
+  {
+    "risk_factor_id": "RF-LH-05",
+    "dimension": "LOSS_HISTORY",
+    "bucket_min": "4",
+    "bucket_max": "10",
+    "multiplier": "2.2"
+  },
+  {
+    "risk_factor_id": "RF-AR-01",
+    "dimension": "ASSET_RISK",
+    "bucket_min": "1.0",
+    "bucket_max": "2.99",
+    "multiplier": "0.8"
+  },
+  {
+    "risk_factor_id": "RF-AR-02",
+    "dimension": "ASSET_RISK",
+    "bucket_min": "3.0",
+    "bucket_max": "4.99",
+    "multiplier": "0.95"
+  },
+  {
+    "risk_factor_id": "RF-AR-03",
+    "dimension": "ASSET_RISK",
+    "bucket_min": "5.0",
+    "bucket_max": "6.99",
+    "multiplier": "1.1"
+  },
+  {
+    "risk_factor_id": "RF-AR-04",
+    "dimension": "ASSET_RISK",
+    "bucket_min": "7.0",
+    "bucket_max": "8.49",
+    "multiplier": "1.35"
+  },
+  {
+    "risk_factor_id": "RF-AR-05",
+    "dimension": "ASSET_RISK",
+    "bucket_min": "8.5",
+    "bucket_max": "10.0",
+    "multiplier": "1.8"
+  }
+]

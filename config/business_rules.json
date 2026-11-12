@@ -1,0 +1,13 @@
+{
+    "system_seed": 20261022,
+    "hurdles": {
+        "tier1_capacity_limit": 25000000.0,
+        "hard_decline_credit_offset": 100,
+        "max_acceptable_losses_for_stp": 1
+    },
+    "rating": {
+        "property_base_rate": 0.0200,
+        "auto_base_rate": 0.0350,
+        "cyber_base_rate": 0.0250
+    }
+}

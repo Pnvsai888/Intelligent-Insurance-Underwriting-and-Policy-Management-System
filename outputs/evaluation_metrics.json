@@ -1,0 +1,22 @@
+{
+  "system_scale": "full",
+  "seed": 20261022,
+  "underwriting_kpis": {
+    "total_submissions_evaluated": 4000,
+    "straight_through_processing_count": 1466,
+    "straight_through_processing_rate_pct": 36.65,
+    "referral_count": 1069,
+    "decline_count": 1465
+  },
+  "anomaly_detection_benchmark": {
+    "total_records_audited": 4116,
+    "true_positives": 58,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "true_negatives": 4058,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "accuracy": 1.0
+  }
+}

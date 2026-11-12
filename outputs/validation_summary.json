@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-11-11T18:03:14.399907",
+  "validation_run": "PASS",
+  "checks": [
+    {
+      "name": "primary_key_uniqueness",
+      "status": "PASS",
+      "errors": 0
+    },
+    {
+      "name": "foreign_key_integrity",
+      "status": "PASS",
+      "orphaned_records": 0
+    },
+    {
+      "name": "enum_domain_constraints",
+      "status": "PASS",
+      "violations": 0
+    },
+    {
+      "name": "lifecycle_date_chronology",
+      "status": "PASS",
+      "inverted_periods": 0
+    },
+    {
+      "name": "arithmetic_premium_reconciliation",
+      "status": "PASS",
+      "quote_mismatches": 0
+    }
+  ],
+  "ground_truth_isolation": {
+    "status": "PASS",
+    "total_anomalies": 58,
+    "feature_leakage": false
+  }
+}
